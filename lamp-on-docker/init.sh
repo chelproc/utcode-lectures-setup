@@ -20,7 +20,6 @@ apt -y install \
   php7.2-xml \
   php7.2-xmlrpc \
   php7.2-zip \
-  libapache2-mod-php7.2 \
   nodejs \
   npm
 
